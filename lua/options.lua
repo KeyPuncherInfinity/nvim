@@ -15,5 +15,5 @@ vim.opt.cursorline = true
 vim.opt.jop = 'stack'
 vim.opt.swapfile = false
 vim.opt.syntax = 'ON'
-vim.opt.updatetime = 100
+-- vim.opt.updatetime = 100
 

@@ -28,9 +28,11 @@ return {
     },
     {
         "nvim-treesitter/nvim-treesitter-context",
+        lazy = false,
     },
     {
         "nvim-treesitter/nvim-treesitter-refactor",
+        lazy = false,
         main = "nvim-treesitter.configs",
         opts = {
             refactor = {
